@@ -28,13 +28,14 @@ namespace SupplierAPI
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
-        {
+         {
             services.AddDbContext<SupplierDbContext>(options =>
                                                        options.UseSqlServer(Configuration.GetConnectionString("SupplierConnection")));
             services.AddControllers();
             services.AddControllers().AddNewtonsoftJson(options =>
              options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
             services.AddScoped<IGenericRepository<Product>, GenericRepository<Product>>();
+            services.AddScoped<IGenericRepository<Category>, GenericRepository<Category>>();
             services.AddScoped<SupplierDbContext>();
             //swagge
             services.AddSwaggerGen();
