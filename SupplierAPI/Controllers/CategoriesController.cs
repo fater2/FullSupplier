@@ -27,5 +27,26 @@ namespace SupplierAPI.Controllers
         {
             return Ok(_services.GetCategories());
         }
+        [HttpGet("{id}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public ActionResult<Category> GetById(int id)
+        {
+            try
+            {
+                var entity = _services.Find(id);
+
+                if (entity == null)
+                {
+                    return BadRequest("entity Not Found");
+                }
+                else
+                    return Ok(entity);
+            }
+            catch (Exception)
+            {
+                return BadRequest("entity Not Found");
+            }
+        }
     }
 }
