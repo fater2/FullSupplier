@@ -14,6 +14,7 @@ using Microsoft.Extensions.Logging;
 using Supplier.Interfaces;
 using Supplier.Models;
 using Supplier.Services;
+using Supplier.Services.IServices;
 
 namespace SupplierAPI
 {
@@ -30,14 +31,15 @@ namespace SupplierAPI
         public void ConfigureServices(IServiceCollection services)
          {
             services.AddDbContext<SupplierDbContext>(options =>
-                                                       options.UseSqlServer(Configuration.GetConnectionString("SupplierConnection")));
+                                                       options.UseSqlServer(Configuration.GetConnectionString("SupplierConnection")
+                                                       ).UseLazyLoadingProxies());
             services.AddControllers();
             services.AddControllers().AddNewtonsoftJson(options =>
              options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
             services.AddScoped<IGenericRepository<Product>, GenericRepository<Product>>();
-            services.AddScoped<IGenericRepository<Category>, GenericRepository<Category>>();
+            services.AddScoped<ICategoryServices<Category>, CategoryService<Category>>();
             services.AddScoped<SupplierDbContext>();
-            //swagge
+            //swagger
             services.AddSwaggerGen();
         }
 

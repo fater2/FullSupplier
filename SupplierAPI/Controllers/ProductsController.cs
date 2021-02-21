@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
@@ -13,9 +14,9 @@ namespace SupplierAPI.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        private readonly IGenericRepository<Product> _repository;
+        private readonly SupplierDbContext _repository;
         //private readonly IMapper _mapper;
-        public ProductsController(IGenericRepository<Product> repository)
+        public ProductsController(SupplierDbContext repository)
         {
             //_mapper = mapper;
             this._repository = repository;
@@ -23,9 +24,27 @@ namespace SupplierAPI.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Product>> GetAllProducts()
         {
-            var items = _repository.List();
-            return Ok(items);
+            /*return Ok(_repository.Products.Include(p => p.Categories)
+                .Include()
+                .ToList());*/
+            return Ok(_repository.Products);
 
         }
     }
+
+    /*
+     * 
+     * void Add(object entity);
+        IList<object> List();
+        object Find(int id);
+
+
+        void Update(object entity);
+        void Delete(int id);
+        List<object> Search(string term);
+        void Delete(Category id);
+     * 
+     * 
+     * 
+     * */
 }
