@@ -25,6 +25,9 @@
             </tr>
         </thead>
         <tbody>
+            @if (Model != null && Model.Count() != 0)
+            {
+                
             @foreach (var item in Model)
             {
                 <tr>
@@ -49,7 +52,7 @@
                         <a asp-action="IndexForId" asp-controller="ProductSpecifications" asp-route-id="@item.Id">Show Specifications</a>
                     </td>
                 </tr>
-            }
+            }}
         </tbody>
     </table>
 </div>

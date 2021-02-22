@@ -32,6 +32,10 @@ namespace Supplier.Controllers
         public async Task<IActionResult> Index()
         {
             var products = _context.Products;
+            if (products == null||products.Count()==0)
+            {
+                return View();
+            }
             return View(await _context.Products.ToListAsync());
         }
         //get products by their category
@@ -90,9 +94,9 @@ namespace Supplier.Controllers
                 string wwwrootPath = _hostEnvironment.WebRootPath;
                 string fileName = Path.GetFileNameWithoutExtension(entity.ImageFile.FileName);
                 string extention = Path.GetExtension(entity.ImageFile.FileName);
-              
-                entity.ImageName= fileName= fileName + DateTime.Now.ToString("yymmssfff") + extention;
-          
+
+                entity.ImagePath= entity.ImageName = fileName = fileName + DateTime.Now.ToString("yymmssfff") + extention;
+
                 string path = Path.Combine(wwwrootPath + "/image/", fileName);
                 using (var fileStream = new FileStream(path, FileMode.Create))
                 {
@@ -100,7 +104,7 @@ namespace Supplier.Controllers
                 }
 
 
-                _context.Add(entity);
+                _context.Products.Add(entity);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }

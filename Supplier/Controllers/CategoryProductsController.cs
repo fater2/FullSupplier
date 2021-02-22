@@ -58,8 +58,8 @@ namespace Supplier.Controllers
         }
         public IActionResult CreateWithCategoryId(int id)
         {
-            var x = new CategoryProduct();
-            x.CategoryId = id;
+            var x = _context.Categories.Find(id);
+            
             ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Name");
             return View(x);
         }
@@ -94,18 +94,29 @@ namespace Supplier.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> CreateWithCategoryId([Bind("CategoryId,ProductId")] CategoryProduct categoryProduct)
+        public async Task<IActionResult> CreateWithCategoryId([Bind("Id,CategoryId,Products")] Category categoryProduct)
         {
 
             if (ModelState.IsValid)
             {
+                var id = categoryProduct.Id;
+                var updatedCategory=_context.Categories.Find(id);
+                foreach(var newProd in categoryProduct.Products)
+                {
+                    Product newProduct = _context.Products.Find(newProd.ProductId);
+                    CategoryProduct cp = new CategoryProduct();
+                    cp.ProductId = categoryProduct.Id;
+                    cp.ProductId = newProd.ProductId;
+                    _context.Add(cp);
+                }
+               
                 //categoryProduct.ProductId = 0;
-                _context.Add(categoryProduct);
+                //_context.Add(categoryProduct);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", categoryProduct.CategoryId);
-            ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Id", categoryProduct.ProductId);
+            //ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", categoryProduct.CategoryId);
+            //ViewData["ProductId"] = new SelectList(_context.Products, "Id", "Id", categoryProduct.ProductId);
             return View(categoryProduct);
         }
 
