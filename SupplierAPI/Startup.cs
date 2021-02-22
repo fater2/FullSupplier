@@ -36,8 +36,12 @@ namespace SupplierAPI
             services.AddControllers();
             services.AddControllers().AddNewtonsoftJson(options =>
              options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
-            services.AddScoped<IGenericRepository<Product>, GenericRepository<Product>>();
+            //services.AddScoped<IGenericRepository<Product>, GenericRepository<Product>>();
             services.AddScoped<ICategoryServices<Category>, CategoryService<Category>>();
+            services.AddScoped<IProductServices<Product>, ProductService<Product>>();
+            services.AddScoped<ICategoryProductServices<CategoryProduct>, CategoryProductService<CategoryProduct>>();
+            services.AddScoped<IProductSpecificationServices<ProductSpecification>, ProductSpecificationService<ProductSpecification>>();
+            services.AddScoped<ISpecificationServices<Specification>, SpecificationService<Specification>>();
             services.AddScoped<SupplierDbContext>();
             //swagger
             services.AddSwaggerGen();

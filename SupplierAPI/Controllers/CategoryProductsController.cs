@@ -13,28 +13,28 @@ namespace SupplierAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProductsController : ControllerBase
+    public class CategoryProductsController : ControllerBase
     {
-        private readonly IProductServices<Product> _services;
+        private readonly ICategoryProductServices<CategoryProduct> _services;
         //private readonly IMapper _mapper;
-        public ProductsController(IProductServices<Product> services)
+        public CategoryProductsController(ICategoryProductServices<CategoryProduct> services)
         {
             //_mapper = mapper;
             this._services = services;
         }
         [HttpGet]
-        public ActionResult<IEnumerable<Product>> GetAllProducts()
+        public ActionResult<IEnumerable<CategoryProduct>> GetAllProducts()
         {
-            return Ok(_services.GetProducts());
+            return Ok(_services.GetCategoryProducts());
         }
-        [HttpGet("{id}")]
+        [HttpGet("{category_id}/{product_id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public ActionResult<Product> GetById(int id)
+        public ActionResult<CategoryProduct> GetById(int category_id, int product_id)
         {
             try
             {
-                var entity = _services.Find(id);
+                var entity = _services.Find(category_id,product_id);
 
                 if (entity == null)
                 {

@@ -13,24 +13,24 @@ namespace SupplierAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProductsController : ControllerBase
+    public class SpecificationsController : ControllerBase
     {
-        private readonly IProductServices<Product> _services;
+        private readonly ISpecificationServices<Specification> _services;
         //private readonly IMapper _mapper;
-        public ProductsController(IProductServices<Product> services)
+        public SpecificationsController(ISpecificationServices<Specification> services)
         {
             //_mapper = mapper;
             this._services = services;
         }
         [HttpGet]
-        public ActionResult<IEnumerable<Product>> GetAllProducts()
+        public ActionResult<IEnumerable<Specification>> GetAllSpecifications()
         {
-            return Ok(_services.GetProducts());
+            return Ok(_services.GetSpecifications());
         }
         [HttpGet("{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public ActionResult<Product> GetById(int id)
+        public ActionResult<Specification> GetById(int id)
         {
             try
             {

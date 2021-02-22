@@ -7,22 +7,22 @@ using System.Threading.Tasks;
 
 namespace Supplier.Services.IServices
 {
-    public class ProductService<TEntity> : IProductServices<TEntity> where TEntity : Product
+    public class ProductSpecificationService<TEntity> : IProductSpecificationServices<TEntity> where TEntity : ProductSpecification
     {
         private readonly SupplierDbContext _context;
 
-        public ProductService(SupplierDbContext context)
+        public ProductSpecificationService(SupplierDbContext context)
         {
             _context = context;
         }
-        public IEnumerable<Product> GetProducts()
+        public IEnumerable<ProductSpecification> GetProductSpecifications()
         {
-            return _context.Products;
+            return _context.ProductSpecifications;
         }
         public TEntity Find(int id)
         {
 
-            var entity = _context.Products.Find(id);
+            var entity = _context.ProductSpecifications.Find(id);
             //entities.Find(id);
             return (TEntity)entity;
 
