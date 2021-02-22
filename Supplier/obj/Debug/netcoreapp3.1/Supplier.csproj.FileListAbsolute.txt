@@ -1,0 +1,789 @@
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.exe
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.csprojAssemblyReference.cache
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.AssemblyInfoInputs.cache
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.AssemblyInfo.cs
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorAssemblyInfo.cache
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorAssemblyInfo.cs
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.TagHelpers.input.cache
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.TagHelpers.output.cache
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorCoreGenerate.cache
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorTargetAssemblyInfo.cache
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorTargetAssemblyInfo.cs
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\staticwebassets\Supplier.StaticWebAssets.Manifest.cache
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\staticwebassets\Supplier.StaticWebAssets.xml
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.csproj.CopyComplete
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.deps.json
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.runtimeconfig.json
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.runtimeconfig.dev.json
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.pdb
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.Views.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.Views.pdb
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.csproj.CoreCompileInputs.cache
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.Views.pdb
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.dll
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.pdb
+C:\Users\Farouq\Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.StaticWebAssets.xml
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.exe
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.deps.json
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.runtimeconfig.json
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.runtimeconfig.dev.json
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.Views.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Supplier.Views.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.TagHelpers.input.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.TagHelpers.output.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorCoreGenerate.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Admin_AuthenticationLayout.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Create.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Delete.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Details.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Edit.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Create.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Delete.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Details.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Details.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Categories.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Create.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Delete.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Details.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Edit.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\CategoryProducts.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Create.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Delete.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Details.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Edit.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Index.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.Views.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\staticwebassets\Supplier.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\staticwebassets\Supplier.StaticWebAssets.xml
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Supplier.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NewFolder\_Layout.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavbarAdmin.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NavbarAdmin.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\bin\Debug\netcoreapp3.1\libman.json
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\appsettings.json
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\libman.json
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Supplier.StaticWebAssets.xml
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Supplier.exe
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Supplier.deps.json
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Supplier.runtimeconfig.json
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Supplier.runtimeconfig.dev.json
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Supplier.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Supplier.pdb
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Supplier.Views.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Supplier.Views.pdb
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\githup\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.csprojAssemblyReference.cache
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.AssemblyInfoInputs.cache
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.AssemblyInfo.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.csproj.CoreCompileInputs.cache
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.MvcApplicationPartsAssemblyInfo.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.MvcApplicationPartsAssemblyInfo.cache
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorAssemblyInfo.cache
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorAssemblyInfo.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.TagHelpers.input.cache
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.TagHelpers.output.cache
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorCoreGenerate.cache
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Admin_AuthenticationLayout.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Create.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Delete.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Details.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Edit.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Index.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Create.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Delete.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Details.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Edit.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Index.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Details.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Categories.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Create.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Delete.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Details.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Edit.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Index.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\CategoryProducts.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NavbarAdmin.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NewFolder\_Layout.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavbarAdmin.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Create.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Delete.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Details.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Edit.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Index.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorTargetAssemblyInfo.cache
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorTargetAssemblyInfo.cs
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.Views.pdb
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.csproj.CopyComplete
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\staticwebassets\Supplier.StaticWebAssets.Manifest.cache
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\staticwebassets\Supplier.StaticWebAssets.xml
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.dll
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.pdb
+D:\githup\Supplier\obj\Debug\netcoreapp3.1\Supplier.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Edit.cshtml.g.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\webPro\Supplier\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\CreateWithCategoryId.cshtml.g.cs
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\libman.json
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Supplier.StaticWebAssets.xml
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\appsettings.json
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Supplier.exe
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Supplier.deps.json
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Supplier.runtimeconfig.json
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Supplier.runtimeconfig.dev.json
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Supplier.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Supplier.pdb
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Supplier.Views.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Supplier.Views.pdb
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.csprojAssemblyReference.cache
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.AssemblyInfoInputs.cache
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.AssemblyInfo.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorAssemblyInfo.cache
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorAssemblyInfo.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.TagHelpers.input.cache
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.TagHelpers.output.cache
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorCoreGenerate.cache
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Admin_AuthenticationLayout.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Create.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\CreateWithCategoryId.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Delete.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Details.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Edit.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategoryProducts\Index.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Create.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Delete.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Details.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Edit.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\CategorySpecifications\Index.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Details.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Categories.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Create.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Delete.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Details.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Edit.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\ProductSpecifications\Index.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\CategoryProducts.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NavbarAdmin.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NewFolder\_Layout.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavbarAdmin.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Create.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Delete.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Details.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Edit.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\Specifications\Index.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorTargetAssemblyInfo.cache
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.RazorTargetAssemblyInfo.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.Views.pdb
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.csproj.CopyComplete
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\staticwebassets\Supplier.StaticWebAssets.Manifest.cache
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\staticwebassets\Supplier.StaticWebAssets.xml
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.dll
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.pdb
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.genruntimeconfig.cache
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\WebProject\Supplier\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.csproj.CoreCompileInputs.cache
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.MvcApplicationPartsAssemblyInfo.cs
+F:\WebProject\Supplier\obj\Debug\netcoreapp3.1\Supplier.MvcApplicationPartsAssemblyInfo.cache

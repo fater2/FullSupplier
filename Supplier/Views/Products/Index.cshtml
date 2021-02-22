@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Supplier.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+    Layout = "~/Views/Shared/NavbarAdmin.cshtml";
+}
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New Product</a>
+</p>
+<div id="dataDiv" style=" margin-left:10px; padding:5px;">
+    <table id="customerDatatable" class="table table-striped table-bordered dt-responsive nowrap" width="100%" cellspacing="0">
+        <thead>
+            <tr>
+                <th>
+                    Product Name
+                </th>
+                <th>
+                    Product Description
+                </th>
+              
+                <th>
+                    Actions
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">
+                             <i class="far fa-edit fa-lg text-dark"></i><!--For Edit-->
+                        </a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">
+                             <i style="color:blue;" class="far fa-lg fa-question-circle"></i><!--For Details-->
+                        </a>  |
+                        <a asp-action="Delete" asp-route-id="@item.Id">
+                            <i class="far fa-trash-alt fa-lg text-danger"></i><!--For Delete-->
+                        </a> |
+                        <a asp-action="Create" asp-controller="ProductSpecifications" asp-route-id="@item.Id">Add Specification</a> |
+                        <a asp-action="IndexForId" asp-controller="ProductSpecifications" asp-route-id="@item.Id">Show Specifications</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@section Scripts
+{
+    <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="~/lib/datatables/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/js/customerDatatable.js"></script>
+    <script>
+    $(document).ready(function () {
+            $('#customerDatatable').dataTable({
+            });
+        });</script>
+}
+

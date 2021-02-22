@@ -1,0 +1,79 @@
+﻿@model Supplier.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/NavbarAdmin.cshtml";}
+
+<h4>Details for Product: @Html.DisplayFor(model => model.Name)</h4>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description):
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name):
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ProductionDate):
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ProductionDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ExpireDate):
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ExpireDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Amount):
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Price):
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt class="col-sm-2">
+            Specifications :
+        </dt>
+        <dd class="col-sm-10">
+
+        </dd>
+
+        <dt></dt>
+        @foreach (var item in Model.ProductSpecifications)
+        {
+            <dt class="col-sm-2">
+
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => item.value)
+            </dd>
+        }
+        @*<dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.ImageFile)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.ImageFile)
+            </dd>*@
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

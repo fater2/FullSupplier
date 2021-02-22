@@ -1,0 +1,44 @@
+﻿@model Supplier.Models.ProductSpecification
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/NavbarAdmin.cshtml";}
+
+<h4>Editing Product Specification: @Html.DisplayFor(model => model.name)</h4>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div class="form-group">
+                <label asp-for="Product.Name" class="control-label">Product Name:</label>
+                <select asp-for="name" class="form-control" asp-items="ViewBag.ProductId"></select>
+                <span asp-validation-for="Product.Name" class="text-danger"></span>
+            </div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="name" class="control-label">Specification:</label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="value" class="control-label">Description:</label>
+                <input asp-for="value" class="form-control" />
+                <span asp-validation-for="value" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
